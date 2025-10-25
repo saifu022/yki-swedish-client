@@ -73,10 +73,10 @@ const GenerateQuestion = () => {
           Yki {moduleType} Question
         </h1>
 
-        { (moduleType === "Speaking")  ?
+        {(moduleType === "Speaking") ?
           <h2 className="text-sm text-gray-500 mb-3">
-                  <strong>**Dialogs cannot be generated yet!</strong>
-                </h2> : <></>
+            <strong>**Dialogs cannot be generated yet!</strong>
+          </h2> : <></>
         }
 
         {questions.length === 0 ? (
@@ -88,8 +88,45 @@ const GenerateQuestion = () => {
             {questions.map((q, idx) => (
               <div
                 key={idx}
-                className="border border-base-300 rounded-xl p-4 shadow-sm"
+                className="relative border border-base-300 rounded-xl p-4 shadow-sm"
               >
+                {/* Copy Button */}
+                <button
+                  onClick={() => {
+                    const fullText = `${q.question_title}${q.sub_questions?.length
+                        ? "\n• " + q.sub_questions.join("\n• ")
+                        : ""
+                      }`;
+
+                    navigator.clipboard.writeText(fullText);
+
+                    const btn = document.getElementById(`copy-${idx}`);
+                    btn.innerText = "Copied!";
+                    setTimeout(() => {
+                      btn.innerText = "Copy again";
+                    }, 5200);
+                  }}
+                  id={`copy-${idx}`}
+                  className="absolute top-2 right-2 btn btn-xs flex items-center gap-1 text-sm text-gray-600 hover:text-primary cursor-pointer"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="w-4 h-4"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      d="M8 7H6a2 2 0 00-2 2v9a2 2 0 002 2h9a2 2 0 002-2v-2M15 3h2a2 2 0 012 2v9a2 2 0 01-2 2h-2M15 3H6a2 2 0 00-2 2v9"
+                    />
+                  </svg>
+                  <span className="copy-text">Copy</span>
+                </button>
+
+                {/* Question Data */}
                 <h2 className="text-sm text-gray-500 mb-3">
                   <strong>Question Type:</strong> {q.question_type}
                 </h2>
