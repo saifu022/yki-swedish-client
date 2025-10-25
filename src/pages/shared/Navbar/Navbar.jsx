@@ -3,8 +3,10 @@ import { NavLink } from "react-router"
 export default function Navbar() {
     const navItems = <>
         <li><NavLink to="/">Home</NavLink></li>
-        <li><NavLink to="/generate?language=Swedish&module=Writing&task=All&topic=">Random writting Question</NavLink></li>
-        <li><NavLink to="/generate?language=Swedish&module=Speaking&task=All&topic=">Random speaking Question</NavLink></li>
+        <li><NavLink to="/generate?language=Swedish&module=Writing&task=All&topic=">Rand. writting</NavLink></li>
+        <li><NavLink to="/generate?language=Swedish&module=Speaking&task=All&topic=">Rand. speaking</NavLink></li>
+        <li><NavLink to="/all-questions?module=Writing">All writting</NavLink></li>
+        <li><NavLink to="/all-questions?module=Speaking">All speaking</NavLink></li>
     </>
 
     return (
@@ -20,7 +22,7 @@ export default function Navbar() {
                         {navItems}
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl">Yki Swedish</a>
+                <NavLink to="/"><a className="btn btn-ghost text-xl">Yki Questions</a></NavLink>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">

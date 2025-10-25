@@ -73,6 +73,12 @@ const GenerateQuestion = () => {
           Yki {moduleType} Question
         </h1>
 
+        { (moduleType === "Speaking")  ?
+          <h2 className="text-sm text-gray-500 mb-3">
+                  <strong>**Dialogs cannot be generated yet!</strong>
+                </h2> : <></>
+        }
+
         {questions.length === 0 ? (
           <p className="text-center text-gray-600">
             No questions found. Try adjusting your filters.
