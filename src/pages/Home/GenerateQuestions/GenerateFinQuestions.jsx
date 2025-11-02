@@ -1,11 +1,14 @@
 import { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router";
-import questionsData from "../../../assets/questions.json";
+//import questionsData from "../../../assets/questions.json";
+import questionsData from "../../../assets/questions_fin_eng.json";
 
-const GenerateQuestion = () => {
+const GenerateFinQuestion = () => {
   const location = useLocation();
   const navigate = useNavigate();
   const [questions, setQuestions] = useState([]);
+  const [showTranslation, setShowTranslation] = useState({}); // track translation visibility per question
+
 
   const query = new URLSearchParams(location.search);
   const moduleType = query.get("module");
@@ -33,29 +36,29 @@ const GenerateQuestion = () => {
         generated = [
           ...getFiltered("informal_letter", 1),
           ...getFiltered("formal_letter", 1),
-          ...getFiltered("Din åsikt_writting", 1),
+          ...getFiltered("mielipide_writing", 1),
         ];
       } else if (task === "Informal Letter") {
         generated = getFiltered("informal_letter", 1);
       } else if (task === "Formal Letter") {
         generated = getFiltered("formal_letter", 1);
-      } else if (task === "Din åsikt") {
-        generated = getFiltered("Din åsikt_writting", 1);
+      } else if (task === "Mielipide") {
+        generated = getFiltered("mielipide_writing", 1);
       }
     } else if (moduleType === "Speaking") {
       if (task === "All" || !task) {
         // Full speaking set
         generated = [
-          ...getFiltered("Berätta", 1),
-          ...getFiltered("reagera", 5),
-          ...getFiltered("Din åsikt_speaking", 1),
+          ...getFiltered("Kertaus", 1),
+          ...getFiltered("Situations", 5),
+          ...getFiltered("mielipide_speaking", 1),
         ];
-      } else if (task === "Berätta") {
-        generated = getFiltered("Berätta", 1);
-      } else if (task === "Reagera") {
-        generated = getFiltered("reagera", 1);
-      } else if (task === "Din åsikt") {
-        generated = getFiltered("Din åsikt_speaking", 1);
+      } else if (task === "Kertaus/Kuvaus") {
+        generated = getFiltered("Kertaus", 1);
+      } else if (task === "Situations") {
+        generated = getFiltered("Situations", 1);
+      } else if (task === "Mielipide") {
+        generated = getFiltered("mielipide_speaking", 1);
       }
     }
 
@@ -64,6 +67,13 @@ const GenerateQuestion = () => {
 
   const handleBack = () => {
     navigate("/");
+  };
+
+  const toggleTranslation = (idx) => {
+    setShowTranslation((prev) => ({
+      ...prev,
+      [idx]: !prev[idx],
+    }));
   };
 
   return (
@@ -93,9 +103,9 @@ const GenerateQuestion = () => {
                 {/* Copy Button */}
                 <button
                   onClick={() => {
-                    const fullText = `${q.question_title}${q.sub_questions?.length
-                        ? "\n• " + q.sub_questions.join("\n• ")
-                        : ""
+                    const fullText = `${q.question_title_fi}${q.sub_questions_fi?.length
+                      ? "\n• " + q.sub_questions_fi.join("\n• ")
+                      : ""
                       }`;
 
                     navigator.clipboard.writeText(fullText);
@@ -128,18 +138,44 @@ const GenerateQuestion = () => {
 
                 {/* Question Data */}
                 <h2 className="text-sm text-gray-500 mb-3">
-                  <strong>Question Type:</strong> {q.question_type}
+                  <strong>Question Type:</strong> {q.question_type_fi_en}
                 </h2>
                 <h3 className="text-lg font-semibold mb-2">
-                  {idx + 1}. {q.question_title}
+                  {idx + 1}. {q.question_title_fi}
                 </h3>
-                {q.sub_questions && q.sub_questions.length > 0 && (
+                {q.sub_questions_fi && q.sub_questions_fi.length > 0 && (
                   <ul className="list-disc pl-6 space-y-1 text-sm">
-                    {q.sub_questions.map((sub, i) => (
+                    {q.sub_questions_fi.map((sub, i) => (
                       <li key={i}>{sub}</li>
                     ))}
                   </ul>
                 )}
+
+                {/* Eng Button */}
+                {
+                  q.question_title_en &&
+                  <button
+                    onClick={() => toggleTranslation(idx)}
+                    className="absolute bottom-2 right-2 btn btn-xs text-sm text-gray-600 hover:text-primary cursor-pointer"
+                  >
+                    Eng
+                  </button>
+                }
+
+                {/* English Translation */}
+                {showTranslation[idx] && q.question_title_en && (
+                  <div className="mt-4 border-t pt-2 text-gray-700 bg-gray-50 p-2 rounded-md">
+                    <h4 className="font-medium">{q.question_title_en}</h4>
+                    {q.sub_questions_en && q.sub_questions_en.length > 0 && (
+                      <ul className="list-disc pl-5 text-sm mt-1 space-y-1">
+                        {q.sub_questions_en.map((en, i) => (
+                          <li key={i}>{en}</li>
+                        ))}
+                      </ul>
+                    )}
+                  </div>
+                )}
+
               </div>
             ))}
           </div>
@@ -155,4 +191,4 @@ const GenerateQuestion = () => {
   );
 };
 
-export default GenerateQuestion;
+export default GenerateFinQuestion;

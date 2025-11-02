@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router";
-import questionsData from "../../assets/questions.json"; // ✅ correct relative path
+import questionsDataFin from "../../assets/questions_fin_eng.json";
+import questionsDataSw from "../../assets/questions_sw_eng.json"; // ✅ correct relative path
 
 const CreateQuestions = () => {
   const navigate = useNavigate();
@@ -13,30 +14,54 @@ const CreateQuestions = () => {
   });
 
   const [tasks, setTasks] = useState([]);
+  const [allTopics, setAllTopics] = useState([]);
 
-  const languages = ["Swedish"];
+  const languages = ["Swedish", "Finnish"];
   const modules = ["Writing", "Speaking"];
 
   // derive topics dynamically from JSON
-  const allTopics = [
-    "All",
-    ...new Set(
-      Object.values(questionsData)
-        .flat()
-        .map((q) => q.chapter_name)
-    ),
-  ];
+
+  const findTopics = (language) => {
+    if (language === "Swedish") {
+      setAllTopics([
+        "All",
+        ...new Set(
+          Object.values(questionsDataSw)
+            .flat()
+            .map((q) => q.chapter_name_fi)
+        ),
+      ]);
+    } else if (language === "Finnish") {
+      setAllTopics([
+        "All",
+        ...new Set(
+          Object.values(questionsDataFin)
+            .flat()
+            .map((q) => q.chapter_name_fi)
+        ),
+      ]);
+    }
+
+  };
 
   // Update available tasks when module changes
   useEffect(() => {
-    if (filters.module === "Writing") {
+    if (filters.language === "Swedish" && filters.module === "Writing") {
       setTasks(["All", "Informal Letter", "Formal Letter", "Din åsikt"]);
-    } else if (filters.module === "Speaking") {
+      findTopics(filters.language);
+    } else if (filters.language === "Swedish" && filters.module === "Speaking") {
       setTasks(["All", "Berätta", "Reagera", "Din åsikt"]);
+      findTopics(filters.language);
+    } else if (filters.language === "Finnish" && filters.module === "Writing") {
+      setTasks(["All", "Informal Letter", "Formal Letter", "Mielipide"]);
+      findTopics(filters.language);
+    } else if (filters.language === "Finnish" && filters.module === "Speaking") {
+      setTasks(["All", "Kertaus", "Situations", "Mielipide"]);
+      findTopics(filters.language);
     } else {
       setTasks([]);
     }
-  }, [filters.module]);
+  }, [filters.module, filters.language]);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -47,7 +72,7 @@ const CreateQuestions = () => {
     e.preventDefault();
 
     const params = new URLSearchParams(filters).toString();
-    navigate(`/generate?${params}`);
+    navigate(`/generate/sw/?${params}`);
   };
 
   return (

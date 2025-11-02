@@ -1,7 +1,7 @@
-import CreateQuestions from "../../CreateQuestions/CreateQuestions";
+import SimpleHome from "./SimpleHome";
 
 export default function Home() {
   return (
-    <CreateQuestions></CreateQuestions>
+    <SimpleHome></SimpleHome>
   )
 }

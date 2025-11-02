@@ -1,0 +1,254 @@
+{
+  "informal_letter": [
+    {
+      "question_type": "Informal letter",
+      "chapter_name": "Människan och omgivningen",
+      "question_title": "Något viktigt har hänt din vän (hitta själv på vad). Du vill gratulera honom/henne. Skriv ett meddelande till honom/henne med följande text:",
+      "sub_questions": [
+        "berätta vad som har hänt och var du har hört om det.",
+        "gratulera honom eller henne och berätta vad du tycker om det som hänt",
+        "berätta hur du vill fira tillsammans med honom/henne"
+      ],
+      "question_title_en": "Something important has happened to your friend (make up what). You want to congratulate them. Write a message to them including the following:",
+      "sub_questions_en": [
+        "say what has happened and where you heard about it",
+        "congratulate them and say what you think about what happened",
+        "say how you want to celebrate together with them"
+      ]
+    },
+    {
+      "question_type": "Informal letter",
+      "chapter_name": "Vardagsliv",
+      "question_title": "Du har fått ett stort blomsterparti från en halvbekant. Skriv ett meddelande till avsändaren av blommorna och berättaåtminstone:",
+      "sub_questions": [
+        "hur blommorna ser ut och vad du tycker om dem",
+        "varför du tror att hen har skickat blommorna",
+        "be honom/henne artigt att sluta skicka presenter till dig och förklara varför du inte vill ha dem"
+      ],
+      "question_title_en": "You have received a large bouquet of flowers from a half-acquaintance. Write a message to the sender of the flowers and tell them at least:",
+      "sub_questions_en": [
+        "what the flowers look like and what you think of them",
+        "why you think they sent the flowers",
+        "politely ask them to stop sending you gifts and explain why you don't want them"
+      ]
+    },
+    {
+      "question_type": "Informal letter",
+      "chapter_name": "Natur och miljö",
+      "question_title": "Din vän vill flytta till samma ställe som du. Beskriv din omgivning för din vän och berätta för honom eller henne om för- och nackdelarna med den plats där du bor.",
+      "sub_questions": [],
+      "question_title_en": "Your friend wants to move to the same place as you. Describe your surroundings to your friend and tell them about the advantages and disadvantages of the place where you live.",
+      "sub_questions_en": []
+    },
+    {
+      "question_type": "Informal letter",
+      "chapter_name": "Hälsa och välmående",
+      "question_title": "Din kollega har tagit en lång sjukskrivning. Skriv ett meddelande till honom/henne med följande text:",
+      "sub_questions": [
+        "hur och var du hörde talas om sjukfrånvaron",
+        "fråga vad som har hänt med din kollega",
+        "berätta hur du kan hjälpa dem på jobbet",
+        "erbjud annan hjälp till kollegan"
+      ],
+      "question_title_en": "Your colleague has taken a long sick leave. Write a message to them including the following:",
+      "sub_questions_en": [
+        "how and where you heard about their sick leave",
+        "ask what happened to your colleague",
+        "say how you can help them at work",
+        "offer other help to your colleague"
+      ]
+    },
+    {
+      "question_type": "Informal letter",
+      "chapter_name": "Arbete och utbildning",
+      "question_title": "Du vill byta skift med en kollega. Hen är inte här just nu, men du har bråttom och vet inte hens telefonnummer. Du lämnar ett meddelande på hens skrivbord. Börja och avsluta meddelandet på lämpligt sätt.",
+      "sub_questions": [],
+      "question_title_en": "You want to swap shifts with a colleague. They are not here right now, and you are in a hurry and don’t know their phone number. You leave a note on their desk. Start and end the message appropriately.",
+      "sub_questions_en": []
+    },
+    {
+      "question_type": "Informal letter",
+      "chapter_name": "Fritid och hobbyer",
+      "question_title": "Du vill bjuda in en vän till en film/teater/konsert/konstutställning. Skriv ett meddelande till honom/henne:",
+      "sub_questions": [
+        "Vart vill du åka med honom/henne?",
+        "Varför vill du att hen ska följa med dig?",
+        "När ska du åka?"
+      ],
+      "question_title_en": "You want to invite a friend to a movie/theatre/concert/art exhibition. Write a message to them:",
+      "sub_questions_en": [
+        "Where do you want to go with them?",
+        "Why do you want them to come with you?",
+        "When will you go?"
+      ]
+    },
+    {
+      "question_type": "Informal letter",
+      "chapter_name": "Samhälle",
+      "question_title": "Din utländska vän vill flytta till ditt hemland. Skicka ett meddelande till honom/henne om vad hen måste göra för att flytta. Berätta också vad de behöver veta om ditt nuvarande land innan de flyttar.",
+      "sub_questions": [],
+      "question_title_en": "Your foreign friend wants to move to your home country. Send them a message about what they need to do to move. Also tell them what they should know about your current country before they move.",
+      "sub_questions_en": []
+    }
+  ],
+  "formal_letter": [
+    {
+      "question_type": "Formal letter",
+      "chapter_name": "Människan och omgivningen",
+      "question_title": "Du letar efter en ny lägenhet. Du har hittat en fastighetsmäklare som kan hjälpa dig. Skriv ett e-postmeddelande till honom/henne:",
+      "sub_questions": [
+        "tala om vilken typ av bostad du letar efter",
+        "vad som är viktigt med fastighetens läge",
+        "hur mycket hyran/försäljningspriset kan vara",
+        "när du vill flytta och varför vid den tidpunkten."
+      ],
+      "question_title_en": "You are looking for a new apartment. You have found a real estate agent who can help you. Write an email to them:",
+      "sub_questions_en": [
+        "say what kind of home you are looking for",
+        "what is important about the location of the property",
+        "how much the rent/sale price can be",
+        "when you want to move and why at that time"
+      ]
+    },
+    {
+      "question_type": "Formal letter",
+      "chapter_name": "Människan och omgivningen",
+      "question_title": "Det hyreshus där du bor har många problem. Du är trött på problemen och vill att bostadsrättsföreningen ska åtgärda dem. Skriv ett klagomål till bostadsrättsföreningens styrelse och berätta för dem:",
+      "sub_questions": [
+        "vilka problem huset har",
+        "vad bör göras åt problemen och inom vilken tidsperiod.",
+        "vad du kommer att göra om saker och ting inte förändras."
+      ],
+      "question_title_en": "The apartment building where you live has many problems. You are tired of them and want the housing association to fix them. Write a complaint to the board and tell them:",
+      "sub_questions_en": [
+        "what problems the building has",
+        "what should be done about the problems and within what timeframe",
+        "what you will do if things do not change"
+      ]
+    },
+    {
+      "question_type": "Formal letter",
+      "chapter_name": "Vardagsliv",
+      "question_title": "Du har sett en annons om en vara som du vill köpa. Skicka ett meddelande till säljaren och be om mer information. Berätta åtminstone för oss:",
+      "sub_questions": [
+        "var och när du såg annonsen",
+        "vad du är intresserad av",
+        "ställ minst två frågor om föremålet",
+        "hur och när säljaren kan kontakta dig"
+      ],
+      "question_title_en": "You have seen an ad for an item you want to buy. Send a message to the seller and ask for more information. Tell at least:",
+      "sub_questions_en": [
+        "where and when you saw the ad",
+        "what you are interested in",
+        "ask at least two questions about the item",
+        "how and when the seller can contact you"
+      ]
+    },
+    {
+      "question_type": "Formal letter",
+      "chapter_name": "Natur och miljö",
+      "question_title": "Det finns en lekplats i närheten av ditt hem som är i dåligt skick. Du vill anordna talkon och bjuda in alla dina grannar att hjälpa dig att städa upp lekplatsen. Skriv en inbjudan med följande text:",
+      "sub_questions": [
+        "i vilket skick lekplatsen är nu och varför du anser att den bör återställas",
+        "vad du tycker att man borde göra åt lekplatsen",
+        "vad människor kan ta med sig till lekplatsen",
+        "När du kommer att organisera evenemanget"
+      ],
+      "question_title_en": "There is a playground near your home that is in poor condition. You want to organize a cleanup and invite your neighbors to help you restore it. Write an invitation including:",
+      "sub_questions_en": [
+        "what condition the playground is in now and why you think it should be restored",
+        "what you think should be done to the playground",
+        "what people can bring to the playground",
+        "when you will organize the event"
+      ]
+    },
+    {
+      "question_type": "Formal letter",
+      "chapter_name": "Hälsa och välmående",
+      "question_title": "Du har ett hälsoproblem som du behöver hjälp med. Du ber om hjälp på hälsobloggen. Skriv en samtalsstart där du:",
+      "sub_questions": [
+        "berättar vilken typ av hälsoproblem du har",
+        "vilka symtom du upplever",
+        "hur den stör ditt dagliga liv",
+        "varför du ber om hjälp från webbplattformen"
+      ],
+      "question_title_en": "You have a health problem you need help with. You are asking for help on a health blog. Write a post where you:",
+      "sub_questions_en": [
+        "say what kind of health problem you have",
+        "what symptoms you are experiencing",
+        "how it affects your daily life",
+        "why you are asking for help on the web platform"
+      ]
+    },
+    {
+      "question_type": "Formal letter",
+      "chapter_name": "Hälsa och välmående",
+      "question_title": "Du tycker att din släkting har blivit illa behandlad på sjukhuset. Du är inte nöjd med behandlingen och klagar till patientombudsmannen. Skriv ett klagomål till dem:",
+      "sub_questions": [
+        "vilken relation du har till patienten",
+        "När och varför din släkting var på sjukhus",
+        "varför du anser att behandlingen var dålig",
+        "vad du vill att det ska göras åt saken"
+      ],
+      "question_title_en": "You think your relative has been treated badly in the hospital. You are not satisfied with the treatment and complain to the patient advocate. Write a complaint to them:",
+      "sub_questions_en": [
+        "what relation you have to the patient",
+        "when and why your relative was in the hospital",
+        "why you think the treatment was poor",
+        "what you want to be done about it"
+      ]
+    },
+    {
+      "question_type": "Formal letter",
+      "chapter_name": "Arbete och utbildning",
+      "question_title": "Du vill skicka ett tackbrev till din egen eller ditt barns lärare. Skriv åtminstone:",
+      "sub_questions": [
+        "vad hen har lärt dig/ditt barn som hen har lärt dig/ditt barn",
+        "vilken slags lärare du tycker att hen är",
+        "vad du alltid kommer att minnas",
+        "vad du önskar att hen skulle komma ihåg"
+      ],
+      "question_title_en": "You want to send a thank-you letter to your own or your child’s teacher. Write at least:",
+      "sub_questions_en": [
+        "what they have taught you or your child",
+        "what kind of teacher you think they are",
+        "what you will always remember",
+        "what you hope they will remember"
+      ]
+    },
+    {
+      "question_type": "Formal letter",
+      "chapter_name": "Fritid och hobbyer",
+      "question_title": "Du har anmält dig till en kurs (tänk själv ut vilken). Du kan dock inte klara det första gången. Skicka ett meddelande till läraren med följande text:",
+      "sub_questions": [
+        "Du registrerar dig för kursen.",
+        "Du registrerar dig för kursen och vill förklara varför du inte kan komma till den första lektionen.",
+        "Ge förslag på hur du skulle kunna kompensera för frånvaron.",
+        "Beskriv kortfattat dina kunskaper om kursämnet för läraren."
+      ],
+      "question_title_en": "You have registered for a course (decide which one yourself). However, you cannot attend the first session. Send a message to the teacher including:",
+      "sub_questions_en": [
+        "that you are registered for the course",
+        "explain why you cannot attend the first class",
+        "suggest how you could make up for your absence",
+        "briefly describe your knowledge of the subject to the teacher"
+      ]
+    },
+    {
+      "question_type": "Formal letter",
+      "chapter_name": "Samhälle",
+      "question_title": "Du har ansökt till en svenskkurs men inte blivit antagen eftersom tjänstemannen säger att du har tillräckliga språkkunskaper. Skriv ett klagomål till tjänstemannen där du berättar:",
+      "sub_questions": [
+        "varför du bör få fortsätta din språkundervisning",
+        "vad du kommer att göra när dina språkkunskaper förbättras",
+        "hur det avslagna beslutet kommer att påverka ditt liv"
+      ],
+      "question_title_en": "You have applied to a Swedish course but were not accepted because the official says your language skills are sufficient. Write a complaint to the official explaining:",
+      "sub_questions_en": [
+        "why you should be allowed to continue your language studies",
+        "what you will do when your language skills improve",
+        "how the rejection will affect your life"
+      ]
+    }
+  ]
+}

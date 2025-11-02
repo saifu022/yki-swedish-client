@@ -1,0 +1,2006 @@
+{
+  "Kertaus": [
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Henkilö, jota en koskaan unohda",
+      "question_title_en": "A person I will never forget",
+      "sub_questions_fi": [
+        "Kerro henkilöstä, jota et koskaan unohda. Miksi et voi unohtaa häntä?",
+        "Missä tapasitte? Mitä tapahtui?"
+      ],
+      "sub_questions_en": [
+        "Tell about a person you will never forget. Why can't you forget him or her?",
+        "Where did you meet? What happened?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Riita puhdistaa ilman.",
+      "question_title_en": "An argument clears the air.",
+      "sub_questions_fi": [
+        "Miten väittelet? Kenen kanssa väittelet? Mistä?",
+        "Onko mielestäsi hyvä vai huono asia väitellä? Miksi?",
+        "Mistä tiedät, oletko vihainen?",
+        "Mistä tulet vihaiseksi? Miksi?"
+      ],
+      "sub_questions_en": [
+        "How do you argue? Who do you argue with? About what?",
+        "Do you think it's good or bad to argue? Why?",
+        "How do you know if you are angry?",
+        "What makes you angry? Why?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Minä ja vaatteeni.",
+      "question_title_en": "Me and my clothes.",
+      "sub_questions_fi": [
+        "Miten pukeudut? Onko sinulla oma tyyli?",
+        "Seuraatko muotia? Miksi/miksi et?",
+        "Mitä pidät ulkonäössäsi? Mistä et pidä?",
+        "Olisitko valmis kauneusleikkauksiin? Miksi/miksi et?"
+      ],
+      "sub_questions_en": [
+        "How do you dress? Do you have your own style?",
+        "Do you follow fashion? Why/why not?",
+        "What do you like about your appearance? What do you not like?",
+        "Would you be willing to undergo cosmetic surgery? Why/why not?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Kerro ystävän tai sukulaisen elämästä.",
+      "question_title_en": "Tell about the life of a friend or relative.",
+      "sub_questions_fi": [
+        "Missä ja milloin hän syntyi?",
+        "Millainen oli hänen lapsuutensa?",
+        "Mitä hän teki nuorena tai aikuisena?",
+        "Missä hän on nyt?",
+        "Miksi halusit kertoa hänestä?"
+      ],
+      "sub_questions_en": [
+        "Where and when was he/she born?",
+        "What was his/her childhood like?",
+        "What did he/she do as a youth or adult?",
+        "Where is he/she now?",
+        "Why did you want to tell about him/her?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Millainen ajanhallitsija olet? Miten hallitset aikaa?",
+      "question_title_en": "What kind of time manager are you? How do you manage time?",
+      "sub_questions_fi": [
+        "Oletko yleensä ajoissa vai myöhässä?",
+        "Pidätkö aikatauluista?",
+        "Miten organisoit aikasi vai annatko sen olla?",
+        "Mihin aikasi kuluu?",
+        "Mihin et halua tuhlata aikaasi?",
+        "Mikä on hyvä tapa sopia aikatauluista?"
+      ],
+      "sub_questions_en": [
+        "Are you usually on time or late?",
+        "Do you like schedules?",
+        "How do you organize your time or do you just let it be?",
+        "Where does your time go?",
+        "What do you not want to waste your time on?",
+        "What is a good way to agree on schedules?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Millainen väittelijä olet?",
+      "question_title_en": "What kind of debater are you?",
+      "sub_questions_fi": [
+        "Kuinka usein riitelet?",
+        "Mistä suutut?",
+        "Mikä tekee sinut vihaiseksi?",
+        "Mitä et voi koskaan antaa anteeksi?",
+        "Miten riitelet? Miten käyttäydyt?",
+        "Mainitse asioita, joista sinun on helppo riidellä."
+      ],
+      "sub_questions_en": [
+        "How often do you argue?",
+        "What makes you angry?",
+        "What makes you mad?",
+        "What can you never forgive?",
+        "How do you argue? How do you behave?",
+        "Name some things you can easily argue about."
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Minun arkipäiväni",
+      "question_title_en": "My everyday life",
+      "sub_questions_fi": [
+        "Miltä normaali arkipäiväsi näyttää?",
+        "Mitä rutiineja sinulla on? Pidätkö rutiineista? Miksi/miksi et?",
+        "Millainen on huono päivä?"
+      ],
+      "sub_questions_en": [
+        "What does your normal weekday look like?",
+        "What routines do you have? Do you like routines? Why/why not?",
+        "What is a bad day like?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Ravintolat",
+      "question_title_en": "Restaurants",
+      "sub_questions_fi": [
+        "Käytkö usein ravintolassa?",
+        "Mikä sinusta on hyvä ravintola?",
+        "Mikä tekee ravintolasta hyvän? Mikä tekee ravintolasta huonon?",
+        "Mitä eroja on kotimaasi ja Suomen ravintoloilla?",
+        "Millainen ilmapiiri ravintolassa pitäisi mielestäsi olla?",
+        "Mitä haluaisit nähdä enemmän ravintoloissa?"
+      ],
+      "sub_questions_en": [
+        "Do you go to a restaurant often?",
+        "What do you think is a good restaurant?",
+        "What makes a restaurant good? What makes a restaurant bad?",
+        "What are the differences between restaurants in your home country and in Finland?",
+        "What kind of atmosphere do you think a restaurant should have?",
+        "What would you like to see more of in restaurants?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Minä liikenteessä",
+      "question_title_en": "Me in traffic",
+      "sub_questions_fi": [
+        "Miten liikut kotoa töihin/kouluun/kauppaan?",
+        "Käytätkö julkista liikennettä? Miksi/miksi et?",
+        "Pelkäätkö jotain liikenteessä? Mitä ja miksi?"
+      ],
+      "sub_questions_en": [
+        "How do you get from home to work/school/shop?",
+        "Do you use public transport? Why/why not?",
+        "Are you afraid of something in traffic? What and why?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Kerro, mitä luonto ja elinympäristö merkitsevät sinulle.",
+      "question_title_en": "Tell what nature and the living environment mean to you.",
+      "sub_questions_fi": [
+        "Millaisessa paikassa asut?",
+        "Millaisia mahdollisuuksia on päästä luontoon?",
+        "Mitä luonto ja luonnon lähellä oleminen merkitsee sinulle?",
+        "Millaisesta luonnosta/ympäristöstä pidät eniten?"
+      ],
+      "sub_questions_en": [
+        "What kind of place do you live in?",
+        "What opportunities are there to get out into nature?",
+        "What do nature and being close to nature mean to you?",
+        "What kind of nature/environment do you like the most?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Kerro luonnonsuojelusta.",
+      "question_title_en": "Tell about nature protection.",
+      "sub_questions_fi": [
+        "Mitä mieltä olet luonnon suojelemisesta?",
+        "Miten voimme suojella luontoa?",
+        "Oletko itse ympäristöystävällinen? Miten ja millä tavoin?"
+      ],
+      "sub_questions_en": [
+        "What do you think about protecting nature?",
+        "How can we protect nature?",
+        "Are you environmentally friendly yourself? How and in what way?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Minun maisemani",
+      "question_title_en": "My landscape",
+      "sub_questions_fi": [
+        "Ihmisillä voi olla maisema, joka on heille tärkeä. Yhdelle se voi olla järven ranta, toiselle metsä, kolmannelle suurkaupunki.",
+        "Kuvaile sinulle tärkeä maisema. Miksi se on sinulle tärkeä?"
+      ],
+      "sub_questions_en": [
+        "People can have a landscape that is important to them. For one person it can be the shore of a lake, for another a forest, for a third a metropolis.",
+        "Describe a landscape that is important to you. Why is it important to you?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Onnettomuus tai sairaus voi muuttaa koko elämäsi.",
+      "question_title_en": "An accident or illness can change your whole life.",
+      "sub_questions_fi": [
+        "Onko sinulla tai läheiselläsi ollut lääketieteellinen tapaus tai onnettomuus?",
+        "Mitä tapahtui?",
+        "Miten onnettomuus tai sairaus voi muuttaa elämääsi?",
+        "Pelkäätkö onnettomuuksia tai sairauksia? Miksi/miksi et?"
+      ],
+      "sub_questions_en": [
+        "Have you or a loved one had a medical incident or an accident?",
+        "What happened?",
+        "How can an accident or illness change your life?",
+        "Are you afraid of accidents or illnesses? Why/why not?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Minun kehoni on temppelini.",
+      "question_title_en": "My body is my temple.",
+      "sub_questions_fi": [
+        "Pidätkö huolta kehostasi? Miten?",
+        "Onko kehosi sinulle tärkeä? Miksi/mikä et?",
+        "Miten kehosi on muuttunut elämäsi aikana? Oletko esimerkiksi lihonut/laihtunut paljon?"
+      ],
+      "sub_questions_en": [
+        "Do you take care of your body? How?",
+        "Is your body important to you? Why/why not?",
+        "How has your body changed during your life? For example, have you gained/lost a lot of weight?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Minulle tärkein aisti",
+      "question_title_en": "The most important sense for me",
+      "sub_questions_fi": [
+        "Mikä aisti (näkö, haju, maku, tunto, kuulo) on sinulle tärkein? Miksi?",
+        "Mistä asioista nautit aistien avulla? Mitkä asiat tuottavat sinulle iloa ja tekevät sinut onnelliseksi?",
+        "Jos sinun pitäisi luopua jostakin aistista tai kehon osasta, mikä se olisi ja miksi?"
+      ],
+      "sub_questions_en": [
+        "Which sense (sight, smell, taste, touch, hearing) is most important to you? Why?",
+        "What things do you enjoy through your senses? What things bring you joy and make you happy?",
+        "If you had to give up a sense or part of your body, what would it be and why?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Aivot kaipaavat huoltoa",
+      "question_title_en": "The brain needs maintenance",
+      "sub_questions_fi": [
+        "Miten pidät huolta aivoistasi?",
+        "Milloin aivosi toimivat hyvin? Entä milloin ne eivät toimi hyvin?",
+        "Mikä on tärkeää aivojen hyvinvoinnille?"
+      ],
+      "sub_questions_en": [
+        "How do you take care of your brain?",
+        "When does your brain work well? And when does it not work well?",
+        "What is important for the wellbeing of the brain?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Minun hyvinvointini",
+      "question_title_en": "My wellbeing",
+      "sub_questions_fi": [
+        "Miten pysyt terveenä? Miten hoidat terveyttäsi?",
+        "Miltä hyvä/terve elämä näyttää?",
+        "Milloin olit viimeksi sairas?",
+        "Mitä teet välttääksesi sairastumista?"
+      ],
+      "sub_questions_en": [
+        "How do you stay healthy? How do you manage your health?",
+        "What does a good/healthy life look like?",
+        "When were you last sick?",
+        "What do you do to avoid getting sick?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Terveellinen ruoka",
+      "question_title_en": "Healthy food",
+      "sub_questions_fi": [
+        "Millainen ruoka on terveellistä? Miksi?",
+        "Haluaisitko muuttaa ruokavaliossasi jotain? Mitä?"
+      ],
+      "sub_questions_en": [
+        "What kind of food is healthy? Why?",
+        "Would you like to change something in your diet? What?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Valitse teos (kirja, näytelmä, elokuva, runo, ...), joka on sinulle tärkeä.",
+      "question_title_en": "Choose a work (book, play, film, poem, ...) that is important to you.",
+      "sub_questions_fi": [
+        "Esimerkiksi:",
+        "Mikä teos se on? Kuka sen on kirjoittanut?",
+        "Millainen teos se on?",
+        "Miksi se on sinulle tärkeä?"
+      ],
+      "sub_questions_en": [
+        "For example:",
+        "What work is it? Who wrote it?",
+        "What kind of work is it?",
+        "Why is it important to you?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Mitä baarikulttuuri merkitsee sinulle?",
+      "question_title_en": "What does bar culture mean to you?",
+      "sub_questions_fi": [
+        "Käytkö koskaan baarissa? Miksi/miksi et?",
+        "Mille ikäryhmälle baarikulttuuri sopii? Miksi?",
+        "Mitä hyvää ja huonoa on siinä, että ihmiset käyvät baareissa?"
+      ],
+      "sub_questions_en": [
+        "Do you ever go to a bar? Why/why not?",
+        "What age group is bar culture suitable for? Why?",
+        "What are the good and bad things about people going to bars?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Ulkonäkö - kaunis vai ruma?",
+      "question_title_en": "Appearance - beautiful or ugly?",
+      "sub_questions_fi": [
+        "Mitä ulkonäkö merkitsee sinulle?",
+        "Miten pidät huolta itsestäsi?",
+        "Miksi ulkonäkö on sinulle tärkeä?",
+        "Ajattelevatko ihmiset liikaa ulkonäköä? Miksi/miksi et?"
+      ],
+      "sub_questions_en": [
+        "What does appearance mean to you?",
+        "How do you take care of yourself?",
+        "Why is appearance important to you?",
+        "Do people think too much about appearance? Why/why not?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Hyvä loma",
+      "question_title_en": "A good holiday",
+      "sub_questions_fi": [
+        "Mikä on hyvä loma? Mitä teet silloin?",
+        "Milloin sinulla oli viimeksi lomaa? Mitä teit?",
+        "Onko hyvä loma kotona vai matkalla? Miksi?"
+      ],
+      "sub_questions_en": [
+        "What is a good holiday? What do you do then?",
+        "When did you last have a holiday? What did you do?",
+        "Is a good holiday at home or travelling? Why?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Mökillä on kivaa",
+      "question_title_en": "It's nice at the cottage",
+      "sub_questions_fi": [
+        "Onko sinulla/perheelläsi/ystävälläsi mökki? Missä? Millainen?",
+        "Kuinka usein käyt mökillä? Miksi?",
+        "Mikä on kivaa mökillä? Mikä on kamalaa?"
+      ],
+      "sub_questions_en": [
+        "Do you/your family/a friend have a cottage? Where? What kind?",
+        "How often do you go to the cottage? Why?",
+        "What is nice about the cottage? What is awful?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Rahan käyttäminen matkustamiseen",
+      "question_title_en": "Spending money on travel",
+      "sub_questions_fi": [
+        "Kerro esimerkiksi:",
+        "Mihin käytät rahojasi matkustaessasi?",
+        "Kuka päättää mihin rahat käytetään?",
+        "Onko tärkeää, että matkalla on paljon rahaa mukana? Pidätkö shoppailusta vai seikkailuista? Miksi?"
+      ],
+      "sub_questions_en": [
+        "Tell for example:",
+        "What do you spend your money on when you travel?",
+        "Who decides what the money is used for?",
+        "Is it important to have a lot of money with you on the trip? Do you like shopping or adventures? Why?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Minä ja sosiaalinen media (Facebook, Twitter, Instagram, Snapchat...)",
+      "question_title_en": "Me and social media (Facebook, Twitter, Instagram, Snapchat...)",
+      "sub_questions_fi": [
+        "Mitä sosiaalista mediaa käytät ja kuinka paljon?",
+        "Mitkä ovat sosiaalisen median hyvät ja huonot puolet?",
+        "Miksi pidät tai et pidä sosiaalisesta mediasta?"
+      ],
+      "sub_questions_en": [
+        "What social media do you use and how much?",
+        "What are the pros and cons of social media?",
+        "Why do you like or dislike social media?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Lemmikkieläimet",
+      "question_title_en": "Pets",
+      "sub_questions_fi": [
+        "Onko sinulla lemmikki? Millainen? Kerro siitä.",
+        "Miksi ihmisillä on lemmikkejä?",
+        "Miksi lemmikki on usein tärkeä?",
+        "Mitä lemmikki voi opettaa lapselle?"
+      ],
+      "sub_questions_en": [
+        "Do you have a pet? What kind? Tell about it.",
+        "Why do people have pets?",
+        "Why is a pet often important?",
+        "What can a pet teach a child?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Minun harrastukseni",
+      "question_title_en": "My hobby",
+      "sub_questions_fi": [
+        "Kerro harrastuksestasi. Mikä se on? Kuinka kauan olet harrastanut sitä?",
+        "Mitkä ovat hyvät ja huonot puolet?",
+        "Mitä varusteita tarvitset?",
+        "Kuinka paljon se maksaa?",
+        "Kenelle suosittelisit sitä?"
+      ],
+      "sub_questions_en": [
+        "Tell about your hobby. What is it? How long have you been doing it?",
+        "What are the pros and cons?",
+        "What equipment do you need?",
+        "How much does it cost?",
+        "Who would you recommend it to?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Koulu kotimaassani",
+      "question_title_en": "School in my home country",
+      "sub_questions_fi": [
+        "Kuvaile kotimaasi koulujärjestelmää, sen hyviä ja huonoja puolia.",
+        "Mitä eroja on kotimaasi ja Suomen koulujärjestelmien välillä?",
+        "Mitä tiedät? Mitä haluaisit tuoda kotimaasi kouluista Suomeen?"
+      ],
+      "sub_questions_en": [
+        "Describe the school system in your home country, its pros and cons.",
+        "What are the differences between the school systems in your home country and in Finland?",
+        "What do you know? What would you like to bring from schools in your home country to Finland?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Minä koulussa",
+      "question_title_en": "Me in school",
+      "sub_questions_fi": [
+        "Millainen koululainen olit?",
+        "Mikä on paras kouluajan muistosi?",
+        "Mitä vihasit koulussa? Mistä pidit?",
+        "Kuka oli suosikkiopettajasi? Miksi?"
+      ],
+      "sub_questions_en": [
+        "What kind of school student were you?",
+        "What is your best school memory?",
+        "What did you hate about school? What did you like?",
+        "Who was your favorite teacher? Why?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Minun ensimmäinen työpaikkani",
+      "question_title_en": "My first job",
+      "sub_questions_fi": [
+        "Mikä oli ensimmäinen työpaikkasi?",
+        "Millaista työtä teit? Piditkö siitä? Miksi/miksi et?",
+        "Miten sait työpaikan?",
+        "Millainen palkka oli?"
+      ],
+      "sub_questions_en": [
+        "What was your first job?",
+        "What kind of work did you do? Did you like it? Why/why not?",
+        "How did you get the job?",
+        "What was the salary like?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Minun normaali työpäiväni",
+      "question_title_en": "My normal workday",
+      "sub_questions_fi": [
+        "Miltä normaali työpäiväsi näyttää?",
+        "Mitä teet työssäsi? Milloin pidät tauon?",
+        "Mistä pidät työssäsi? Mistä et pidä?"
+      ],
+      "sub_questions_en": [
+        "What does your normal workday look like?",
+        "What do you do at work? When do you take a break?",
+        "What do you like about your job? What do you not like?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Yhteiskunta",
+      "chapter_name_en": "Society",
+      "question_title_fi": "Minulle on tärkeää, mistä olen kotoisin.",
+      "question_title_en": "It is important to me where I come from.",
+      "sub_questions_fi": [
+        "Mitä kansalaisuus merkitsee sinulle?",
+        "Mikä on alkuperämaasi? Miksi ajattelet näin?"
+      ],
+      "sub_questions_en": [
+        "What does citizenship mean to you?",
+        "What is your country of origin? Why do you think so?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Kerro: Valmistautumisaika 60 sek + Puheaika max. 90 sek. (Tell: Prep 60 sec + Speak max 90 sec.)",
+      "chapter_name_fi": "Yhteiskunta",
+      "chapter_name_en": "Society",
+      "question_title_fi": "Minun pohjoismaiset ystäväni",
+      "question_title_en": "My Nordic friends",
+      "sub_questions_fi": [
+        "Onko sinulla suomalaisia ystäviä? Millaisia he ovat?",
+        "Miten olet tutustunut heihin?",
+        "Sanotaan, että pohjoismaalaiset ovat ujoja ja hiljaisia. Mitä mieltä olet?",
+        "Mikä on hyvä tapa tutustua uusiin ihmisiin?"
+      ],
+      "sub_questions_en": [
+        "Do you have any Finnish friends? What are they like?",
+        "How did you get to know them?",
+        "It is said that Nordic people are shy and quiet. What do you think?",
+        "What is a good way to meet new people?"
+      ]
+    }
+  ],
+  "mielipide_speaking": [
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Ruotsalaiset/suomenruotsalaiset juhlat ovat tylsiä.",
+      "question_title_en": "Swedish/Finland-Swedish parties are boring.",
+      "sub_questions_fi": [
+        "Mitä mieltä olet ruotsalaisista/suomalaisista juhlista?",
+        "Mitä ruotsalaisissa/suomalaisissa juhlissa tehdään?",
+        "Miksi ne ovat tylsiä/eivät ole tylsiä?"
+      ],
+      "sub_questions_en": [
+        "What do you think about Swedish/Finnish parties?",
+        "What do people do at Swedish/Finnish parties?",
+        "Why are they boring/not boring?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Syntymäpäiviä ei saa unohtaa.",
+      "question_title_en": "Birthdays must not be forgotten.",
+      "sub_questions_fi": [
+        "Onko mielestäsi syntymäpäivät tärkeitä juhlapäiviä? Miksi/miksi et?",
+        "Kenen syntymäpäivää et varmasti unohda?",
+        "Millaisen lahjan ostat läheisillesi heidän syntymäpäivänään?"
+      ],
+      "sub_questions_en": [
+        "Do you think birthdays are important holidays? Why/why not?",
+        "Whose birthday will you definitely not forget?",
+        "What kind of gift do you buy for your loved ones on their birthday?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Paras tapa asua",
+      "question_title_en": "The best way to live",
+      "sub_questions_fi": [
+        "Mikä on mielestäsi paras tapa asua: omakotitalo, rivitalo, kerrostalo? Miksi?",
+        "Kumpi on parempi? Asunnon omistaminen vai vuokraaminen? Miksi?"
+      ],
+      "sub_questions_en": [
+        "What do you think is the best way to live: detached house, terraced house, apartment building? Why?",
+        "Which is better? Owning or renting a home? Why?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Hyvä suhde vaatii työtä",
+      "question_title_en": "A good relationship requires work",
+      "sub_questions_fi": [
+        "Mikä on hyvä suhde? Miten voit pitää huolta suhteestasi?",
+        "Miltä ihanteellinen puoliso näyttää?",
+        "Mitä rakastat / vihaat / siedät / toivot / haluat kumppanissasi?"
+      ],
+      "sub_questions_en": [
+        "What is a good relationship? How can you take care of your relationship?",
+        "What does the ideal spouse look like?",
+        "What do you love / hate / tolerate / wish / want in your partner?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Onnellisuus on henkilökohtainen valinta.",
+      "question_title_en": "Happiness is a personal choice.",
+      "sub_questions_fi": [
+        "Kuinka paljon ihminen voi vaikuttaa siihen, onko hän onnellinen vai ei?",
+        "Mitä asioita ihminen ei voi muuttaa?",
+        "Voiko positiivinen ajattelu muuttaa ihmistä? Miten? Miksi/miksi et?"
+      ],
+      "sub_questions_en": [
+        "How much can a person influence whether they are happy or not?",
+        "What things can a person not change?",
+        "Can positive thinking change a person? How? Why/why not?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Sosiaalinen media tuhoaa suhteita.",
+      "question_title_en": "Social media destroys relationships.",
+      "sub_questions_fi": [
+        "Ihmiset viettävät enemmän aikaa sosiaalisessa mediassa kuin ystävien ja perheen kanssa. Ihmiset ovat yhdessä, mutta katsovat puhelimiaan. Miten sosiaalinen media muuttaa ystävyyssuhteita ja suhteita? Mitkä ovat hyvät ja huonot puolet?"
+      ],
+      "sub_questions_en": [
+        "People spend more time on social media than with friends and family. People are together but looking at their phones. How does social media change friendships and relationships? What are the pros and cons?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Toimivuus on tärkeämpää kuin muoti.",
+      "question_title_en": "Functionality is more important than fashion.",
+      "sub_questions_fi": [
+        "Mikä on sinulle tärkeintä: tyyli vai mukavuus? Miksi?",
+        "Mikä on sinulle tärkeää, kun ostat uusia vaatteita?",
+        "Voiko talvella näyttää hyvältä? Miten?"
+      ],
+      "sub_questions_en": [
+        "What is most important to you: style or comfort? Why?",
+        "What is important to you when you buy new clothes?",
+        "Can one look good in winter? How?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Suomalaiset eivät osaa pukeutua.",
+      "question_title_en": "Finns don't know how to dress.",
+      "sub_questions_fi": [
+        "Suomalaisia on joskus kutsuttu 'vinttisukkakansaksi'. Miten mielestäsi suomalaiset pukeutuvat?",
+        "Miten suomalaiset pukeutuvat verrattuna muihin maihin?",
+        "Missä maassa ihmiset mielestäsi pukeutuvat tyylikkäimmin? Miksi?"
+      ],
+      "sub_questions_en": [
+        "Finns have sometimes been called the 'attic sock people'. How do you think Finns dress?",
+        "How do Finns dress compared to other countries?",
+        "In which country do you think people dress most stylishly? Why?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Ihmiset stressaavat turhaan ulkonäöstään.",
+      "question_title_en": "People stress unnecessarily about their appearance.",
+      "sub_questions_fi": [
+        "Onko sillä väliä, mitä sinulla on päälläsi tai miltä näytät? Miksi/miksi et?",
+        "Mitä ongelmia voi syntyä, jos ajattelee liikaa ulkonäköään tai sitä, miltä ei näytä?"
+      ],
+      "sub_questions_en": [
+        "Does it matter what you wear or how you look? Why/why not?",
+        "What problems can arise if you think too much about your appearance or what you don't look like?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Sukulaiset ovat tärkeämpiä kuin ystävät",
+      "question_title_en": "Relatives are more important than friends",
+      "sub_questions_fi": [
+        "Suomeksi sanotaan, että veri on vettä sakeampaa. Se tarkoittaa, että sukulaiset ovat tärkeämpiä kuin ystävät. Mitä mieltä olet?"
+      ],
+      "sub_questions_en": [
+        "In Finnish, it is said that blood is thicker than water. It means that relatives are more important than friends. What do you think?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Yhteenpaluu - hyvä vai huono?",
+      "question_title_en": "Reunion - good or bad?",
+      "sub_questions_fi": [
+        "Suomessa melkein 50 prosenttia avioliitoista päättyy eroon.",
+        "Mitä pitäisi tehdä? Tai pitäisikö tehdä mitään?",
+        "Miten lapsi kasvaa, jos hänellä on monta vanhempaa tai kaksi kotia?"
+      ],
+      "sub_questions_en": [
+        "In Finland, almost 50 percent of marriages end in divorce.",
+        "What should be done? Or should anything be done?",
+        "How does a child grow up if he/she has many parents or two homes?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Ketjuyritysten hyvät ja huonot puolet",
+      "question_title_en": "Pros and cons of chain companies",
+      "sub_questions_fi": [
+        "Mitkä ovat edut ja haitat olla osa kauppa-/ravintola-/huoltoasemaketjua?",
+        "Ostatko mieluummin itse ketjulta vai yrittäjältä? Miksi?",
+        "Onko globaaleissa ketjuissa riskejä? Mitä riskejä?"
+      ],
+      "sub_questions_en": [
+        "What are the advantages and disadvantages of being part of a chain of shops/restaurants/petrol stations?",
+        "Do you prefer to buy from a chain yourself or from an entrepreneur? Why?",
+        "Are there risks in global chains? What are the risks?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Kouluikäistä nuorempi lapsi ei vielä tarvitse puhelinta.",
+      "question_title_en": "A child under school age does not need a phone yet.",
+      "sub_questions_fi": [
+        "Mikä on mielestäsi oikea ikä aloittaa matkapuhelimen käyttö? Miksi?",
+        "Mitkä ovat puhelimen hyvät ja huonot puolet?",
+        "Mikä on lapselle sopiva puhelinlasku?",
+        "Pitäisikö lapsen puhelimen käyttöä rajoittaa? Miten?"
+      ],
+      "sub_questions_en": [
+        "What do you think is the right age to start using a mobile phone? Why?",
+        "What are the pros and cons of having a phone?",
+        "What is an appropriate phone bill for a child?",
+        "Should a child's phone use be restricted? How?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Arkielämä Suomessa on helppoa",
+      "question_title_en": "Everyday life in Finland is easy",
+      "sub_questions_fi": [
+        "Mitä ongelmia sinulla oli päivittäisessä elämässäsi, kun tulit Suomeen? Miten ratkaisit ne?",
+        "Mitkä asiat ovat helppoja Suomessa? Mikä on vaikeaa?",
+        "Millaista arki Suomessa on verrattuna kotimaasi arkeen?"
+      ],
+      "sub_questions_en": [
+        "What problems did you have in your daily life when you came to Finland? How did you solve them?",
+        "What things are easy in Finland? What is difficult?",
+        "What is everyday life in Finland like compared to everyday life in your home country?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "On hauska neuvotella",
+      "question_title_en": "It's fun to negotiate",
+      "sub_questions_fi": [
+        "Tykkäätkö tinkiä hinnoista vai pidätkö vaki hinnoista? Miksi?",
+        "Miltä tinkiminen tuntuu?",
+        "Mitä mieltä olet tinkimisestä Suomessa? Onko sitä?",
+        "Mistä asioista voi tinkiä ja mistä ei?"
+      ],
+      "sub_questions_en": [
+        "Do you like to haggle over prices or do you prefer standard prices? Why?",
+        "How does haggling feel?",
+        "What do you think about haggling in Finland? Is there any?",
+        "What things can you negotiate about and what things can you not?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Polkupyörä vai auto?",
+      "question_title_en": "Bicycle or car?",
+      "sub_questions_fi": [
+        "Valitsetko mieluummin pyörän vai auton? Miksi?",
+        "Kumman valitset mieluummin? Miksi? Missä tilanteessa?",
+        "Mitkä ovat auton/pyörän edut?",
+        "Mitkä ovat auton/pyörän haitat?",
+        "Miksi ihmisten pitäisi käyttää autoa/pyörää enemmän?"
+      ],
+      "sub_questions_en": [
+        "Do you prefer a bicycle or a car? Why?",
+        "Which one do you prefer? Why? In what situation?",
+        "What are the advantages of a car/bicycle?",
+        "What are the disadvantages of a car/bicycle?",
+        "Why should people use a car/bicycle more?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Ihmiset ostavat liikaa turhia asioita.",
+      "question_title_en": "People buy too many unnecessary things.",
+      "sub_questions_fi": [
+        "Ihmisillä on usein paljon tavaroita. Mikä on turhaa ja mikä on välttämätöntä?",
+        "Onko sinulla turhia asioita? Mitä?",
+        "Miksi ihmiset ostavat turhia asioita?"
+      ],
+      "sub_questions_en": [
+        "People often have many things. What is unnecessary and what is necessary?",
+        "Do you have unnecessary things? What?",
+        "Why do people buy unnecessary things?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Joukkoliikenteen tulisi olla ilmaista.",
+      "question_title_en": "Public transport should be free.",
+      "sub_questions_fi": [
+        "Mitä mieltä olet joukkoliikenteen (juna, bussi, metro, raitiovaunu) hinnoista Suomessa?",
+        "Mitkä olisivat halvan joukkoliikenteen edut?"
+      ],
+      "sub_questions_en": [
+        "What do you think about the prices of public transport (train, bus, metro, tram) in Finland?",
+        "What would be the advantages of cheap public transport?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Fyysinen terveys on tärkeää myös mielenterveydelle.",
+      "question_title_en": "Physical health is also important for mental health.",
+      "sub_questions_fi": [
+        "Pidätkö fyysistä ja psyykkistä terveyttä yhtä tärkeinä? Miksi?",
+        "Miten pidät huolta fyysisestä ja psyykkisestä terveydestäsi?",
+        "Suomessa on paljon masennusta ja itsemurhia. Miksi luulet sen johtuvan?"
+      ],
+      "sub_questions_en": [
+        "Do you consider physical and mental health equally important? Why?",
+        "How do you take care of your physical and mental health?",
+        "Finland has a high incidence of depression and suicides. What do you think this is due to?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Urheilu ja doping",
+      "question_title_en": "Sports and doping",
+      "sub_questions_fi": [
+        "Mitä mieltä olet dopingista?",
+        "Voiko huippu-urheilija pärjätä ilman dopingia? Miksi/miksi ei?"
+      ],
+      "sub_questions_en": [
+        "What do you think about doping?",
+        "Can a top athlete succeed without doping? Why/why not?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Terveydenhuolto Suomessa",
+      "question_title_en": "Healthcare in Finland",
+      "sub_questions_fi": [
+        "Mitä mieltä olet sairaanhoidosta Suomessa?",
+        "Mitkä ovat suomalaisen sairaanhoidon hyvät ja huonot puolet?",
+        "Onko sairaaloissa ja terveyskeskuksissa riittävästi henkilökuntaa?",
+        "Mitä eroa on kotimaassasi?"
+      ],
+      "sub_questions_en": [
+        "What do you think about healthcare in Finland?",
+        "What are the pros and cons of Finnish healthcare?",
+        "Are hospitals and health centers adequately staffed?",
+        "What is different in your home country?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Päihteet Suomessa",
+      "question_title_en": "Substances (abuse) in Finland",
+      "sub_questions_fi": [
+        "Mitä mieltä olet päihteiden käytöstä Suomessa (päihteet = alkoholi, tupakka...)?",
+        "Missä tilanteissa päihteiden käyttö on sallittua?",
+        "Mitä ongelmia päihteiden käyttö voi aiheuttaa?",
+        "Mitä mieltä olet alaikäisten (alle 18-vuotiaiden) päihteiden käytöstä?"
+      ],
+      "sub_questions_en": [
+        "What do you think about substance abuse in Finland (substances = alcohol, tobacco, ...)?",
+        "In what situations is substance use allowed?",
+        "What problems can substance use cause?",
+        "What do you think about substance use by minors (under 18 years old)?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Työn pitäisi olla hauskaa.",
+      "question_title_en": "Work should be fun.",
+      "sub_questions_fi": [
+        "Pitääkö sinun viihtyä työssäsi vai onko se vain tapa ansaita rahaa?",
+        "Miksi/miksi ei työn pitäisi olla hauskaa?",
+        "Millaisesta työstä pidät? Mikä on tylsää?"
+      ],
+      "sub_questions_en": [
+        "Do you have to enjoy your job or is it just a way to earn money?",
+        "Why/why shouldn't work be fun?",
+        "What kind of work do you like? What is boring?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Opiskelu on aina sen arvoista.",
+      "question_title_en": "Studying is always worth it.",
+      "sub_questions_fi": [
+        "Miksi on tärkeää opiskella/ei ole tärkeää opiskella?",
+        "Mitkä asiat ovat hyödyllisiä opiskella? Mikä on turhaa?",
+        "Maailma muuttuu. Muuttuuko koulu?"
+      ],
+      "sub_questions_en": [
+        "Why is it important to study/not important to study?",
+        "What things are useful to study? What is pointless?",
+        "The world is changing. Will school change?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Nykyään kaikilla on aina kiire.",
+      "question_title_en": "Nowadays everyone is always in a hurry.",
+      "sub_questions_fi": [
+        "Onko ihmisten ajankäyttö muuttunut? Miten?",
+        "Miksi tuntuu siltä, että kaikilla on kiire?",
+        "Mitkä ovat kiireen haitat/hyödyt?"
+      ],
+      "sub_questions_en": [
+        "Has people's use of time changed? How?",
+        "Why does it seem like everyone is in a hurry?",
+        "What are the disadvantages/advantages of being busy?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Tulevaisuudessa robotit tekevät ihmisen työt.",
+      "question_title_en": "In the future, robots will do human work.",
+      "sub_questions_fi": [
+        "Luuletko, että robotit ottavat ihmisten työt? Miksi/miksi et?",
+        "Mitkä ovat automatisoinnin edut ja haitat työssä?",
+        "Miten tekoäly (AI) voi auttaa meitä?",
+        "Mitkä ovat tekoälyn riskit?"
+      ],
+      "sub_questions_en": [
+        "Do you think robots will take over people's jobs? Why/why not?",
+        "What are the pros and cons of automation in work?",
+        "How can artificial intelligence (AI) help us?",
+        "What are the risks of artificial intelligence?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Koulu-uniformut ovat hyvä asia.",
+      "question_title_en": "School uniforms are good.",
+      "sub_questions_fi": [
+        "Onko kotimaassasi koulu-uniformu?",
+        "Mitkä ovat haitat ja hyödyt?",
+        "Millainen pukeutuminen on sopivaa koulussa?"
+      ],
+      "sub_questions_en": [
+        "Do you have a school uniform in your home country?",
+        "What are the disadvantages and advantages?",
+        "What kind of clothing is appropriate in school?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Lasten kasvatus Pohjoismaissa on hyvä/huono asia.",
+      "question_title_en": "The upbringing of children in the Nordic countries is good/bad.",
+      "sub_questions_fi": [
+        "Onko eroja siinä, miten lapsia kasvatetaan nykyisessä kotimaassasi ja miten heitä kasvatettiin edellisessä kotimaassasi?",
+        "Mitkä ovat molempien hyvät ja huonot puolet?"
+      ],
+      "sub_questions_en": [
+        "Are there differences in how children are brought up in your current home country and how they were brought up in your previous home country?",
+        "What are the pros and cons of both?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Suomi tarvitsee lisää työvoimaa ulkomailta.",
+      "question_title_en": "Finland needs more labor from abroad.",
+      "sub_questions_fi": [
+        "Miten voitte houkutella enemmän ihmisiä töihin Suomeen?",
+        "Millaiseen työhön luulet Suomen tarvitsevan enemmän ihmisiä?",
+        "Mitkä ovat haasteet tai ongelmat ulkomaalaisten palkkaamisessa suoraan?"
+      ],
+      "sub_questions_en": [
+        "How can you attract more people to work in Finland?",
+        "What kind of job do you think Finland needs more people for?",
+        "What are the challenges or problems with hiring people directly from abroad?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Liikunta on pakollista, ei vaihtoehto.",
+      "question_title_en": "Exercise is a must, not an option.",
+      "sub_questions_fi": [
+        "Pidätkö urheilusta? Miksi/miksi et?",
+        "Mitkä ovat urheilun edut? Voiko se olla haitallista?",
+        "Voiko ihmisiä pakottaa urheilemaan? Kuka voi pakottaa sinut? Lääkäri/äiti/pomo?",
+        "Miten ihmisiä voi kannustaa liikkumaan?"
+      ],
+      "sub_questions_en": [
+        "Do you like to exercise? Why/why not?",
+        "What are the benefits of exercise? Can it be harmful?",
+        "Can people be forced to exercise? Who can force you? Doctor/mother/boss?",
+        "How can people be encouraged to exercise?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Pohjoismaat ovat hyviä matkailukohteita.",
+      "question_title_en": "The Nordic countries are good tourist destinations.",
+      "sub_questions_fi": [
+        "Mitä Pohjoismaissa on nähtävää turisteille?",
+        "Kenelle suosittelisit Pohjoismaita matkailukohteeksi? Miksi?",
+        "Luuletko, että Pohjoismaissa käy tarpeeksi turisteja? Miksi/miksi et?"
+      ],
+      "sub_questions_en": [
+        "What is there to see in the Nordic countries for tourists?",
+        "To whom would you recommend the Nordic countries as a tourist destination? Why?",
+        "Do you think there are enough tourists visiting the Nordic countries? Why/why not?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Vanhempien on valvottava lastensa internetin käyttöä.",
+      "question_title_en": "Parents must control their children's internet use.",
+      "sub_questions_fi": [
+        "Mitä lapset voivat tehdä internetissä?",
+        "Voiko internet olla vaarallinen lapsille? Millä tavalla?",
+        "Kuinka paljon lapsi voi leikkiä/surffailla?",
+        "Mitkä ovat internetin käytön edut ja haitat lapsille?"
+      ],
+      "sub_questions_en": [
+        "What can children do on the internet?",
+        "Can the internet be dangerous for children? In what way?",
+        "How much can a child play/surf?",
+        "What are the pros and cons of internet use for children?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Mielipiteeni uudesta maani taiteesta verrattuna vanhan kotimaani taiteeseen.",
+      "question_title_en": "My opinion on the art in my new country compared to the art in my old home country.",
+      "sub_questions_fi": [
+        "Millaisesta taiteesta pidät? Miksi?",
+        "Seuraatko aktiivisesti taidemaailmaa?",
+        "Miten suomalainen taide eroaa kotimaasi taiteesta?"
+      ],
+      "sub_questions_en": [
+        "What kind of art do you like? Why?",
+        "Do you actively follow the art world?",
+        "How is Finnish art different from the art in your home country?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "On lapsen asia päättää, mitä hän tekee.",
+      "question_title_en": "It is up to the child to decide what to do.",
+      "sub_questions_fi": [
+        "Uskotko, että lapsesi voi tehdä mitä hän haluaa? Miksi/miksi et?",
+        "Mikä on mielestäsi hyvä harrastus lapselle? Miksi?",
+        "Kuinka paljon lapsi voi harrastaa?",
+        "Voiko harrastus olla haitallinen? Mitkä?"
+      ],
+      "sub_questions_en": [
+        "Do you believe your child can do whatever they want? Why/why not?",
+        "What do you think is a good hobby for a child? Why?",
+        "How much can the child do?",
+        "Can the hobby be harmful? Which ones?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Yhteiskunta",
+      "chapter_name_en": "Society",
+      "question_title_fi": "Nykyinen kotimaani ei ole tasa-arvoinen maa.",
+      "question_title_en": "My current home country is not an equal country.",
+      "sub_questions_fi": [
+        "Miten tasa-arvo/epätasa-arvo näkyy kotimaassasi?",
+        "Ketkä ovat tasa-arvoisia?",
+        "Millä tavalla kotimaasi ei ole tasa-arvoinen?"
+      ],
+      "sub_questions_en": [
+        "How is equality/inequality reflected in your home country?",
+        "Who are equal?",
+        "In what way is your home country not equal?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Yhteiskunta",
+      "chapter_name_en": "Society",
+      "question_title_fi": "Ihmiset eivät välitä toisistaan nykyään.",
+      "question_title_en": "People don't care about each other nowadays.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Yhteiskunta",
+      "chapter_name_en": "Society",
+      "question_title_fi": "Maahanmuuttajia on liian vähän Pohjoismaiden politiikassa.",
+      "question_title_en": "There are too few immigrants in politics in the Nordic countries.",
+      "sub_questions_fi": [
+        "Mihin asioihin maahanmuuttajat voivat antaa panoksensa?",
+        "Miksi maahanmuuttajien pitäisi osallistua politiikkaan aktiivisemmin?"
+      ],
+      "sub_questions_en": [
+        "What issues can immigrants contribute to?",
+        "Why should immigrants participate more actively in politics?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: Valmistautumisaika 60 sek. Puheaika max. 120 sek. (Opinion: Prep 60 sec. Speak max 120 sec.)",
+      "chapter_name_fi": "Yhteiskunta",
+      "chapter_name_en": "Society",
+      "question_title_fi": "Verot kotimaassa ovat liian korkeat.",
+      "question_title_en": "Taxes in the home country are too high.",
+      "sub_questions_fi": [
+        "Mitä mieltä olet verotuksesta kotimaassasi?",
+        "Miten verotus nykyisessä kotimaassasi eroaa verotuksesta vanhassa kotimaassasi?"
+      ],
+      "sub_questions_en": [
+        "What do you think about taxation in your home country?",
+        "How does taxation in your current home country compare to taxation in your old home country?"
+      ]
+    }
+  ],
+  "mielipide_writing": [
+    {
+      "question_type_fi_en": "Mielipiteesi: kirjoita mielipiteesi lyhyesti (Opinion: write your opinion briefly)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Suomalaiset eivät halua auttaa maahanmuuttajia.",
+      "question_title_en": "Finns do not want to help immigrants.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: kirjoita mielipiteesi lyhyesti (Opinion: write your opinion briefly)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Ravintoloiden pitäisi olla auki sunnuntaisin ja pyhäpäivinä.",
+      "question_title_en": "Restaurants should be open on Sundays and holidays.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: kirjoita mielipiteesi lyhyesti (Opinion: write your opinion briefly)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Kierrättäminen on vaikeaa.",
+      "question_title_en": "Recycling is difficult.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: kirjoita mielipiteesi lyhyesti (Opinion: write your opinion briefly)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Muovin käyttöä on vähennettävä.",
+      "question_title_en": "The use of plastic must be reduced.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: kirjoita mielipiteesi lyhyesti (Opinion: write your opinion briefly)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Pohjoismainen koulujärjestelmä on maailman paras.",
+      "question_title_en": "The Nordic school system is the best in the world.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: kirjoita mielipiteesi lyhyesti (Opinion: write your opinion briefly)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Pohjoismaissa on pakollista puhua maan kieltä.",
+      "question_title_en": "In the Nordic countries, it is mandatory to speak the country's language.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: kirjoita mielipiteesi lyhyesti (Opinion: write your opinion briefly)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Taide vai urheilu? Lapsesi koulu haluaa järjestää koulun jälkeen taide- tai urheilukerhon. Kirjoita mielipiteesi vanhempien chatissa siitä, mikä kerho on mielestäsi tärkein ja miksi.",
+      "question_title_en": "Art or sport? Your child's school wants to organize an art or sports club after school. Write your opinion in the parent chat about which club you think is most important and why.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: kirjoita mielipiteesi lyhyesti (Opinion: write your opinion briefly)",
+      "chapter_name_fi": "Yhteiskunta",
+      "chapter_name_en": "Society",
+      "question_title_fi": "Maahanmuuttajat lähtevät Suomesta/Ruotsista, koska he eivät löydä työtä.",
+      "question_title_en": "Immigrants leave Finland/Sweden because they cannot find work.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Mielipiteesi: kirjoita mielipiteesi lyhyesti (Opinion: write your opinion briefly)",
+      "chapter_name_fi": "Yhteiskunta",
+      "chapter_name_en": "Society",
+      "question_title_fi": "Oma auto on liian kallis.",
+      "question_title_en": "One's own car is too expensive.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    }
+  ],
+  "formal_letter": [
+    {
+      "question_type_fi_en": "Muodollinen kirje (Formal letter)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Etsit uutta asuntoa. Olet löytänyt kiinteistönvälittäjän, joka voi auttaa sinua. Kirjoita hänelle sähköposti:",
+      "question_title_en": "You are looking for a new apartment. You have found a real estate agent who can help you. Write an email to him/her:",
+      "sub_questions_fi": [
+        "kerro millaista asuntoa etsit",
+        "mikä on tärkeää kiinteistön sijainnissa",
+        "kuinka suuri vuokra/myyntihinta voi olla",
+        "milloin haluat muuttaa ja miksi juuri silloin."
+      ],
+      "sub_questions_en": [
+        "tell what kind of apartment you are looking for",
+        "what is important about the property's location",
+        "how much the rent/selling price can be",
+        "when you want to move and why at that time."
+      ]
+    },
+    {
+      "question_type_fi_en": "Muodollinen kirje (Formal letter)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Asuinkerrostalossa, jossa asut, on paljon ongelmia. Olet kyllästynyt ongelmiin ja haluat, että taloyhtiö... (Jatka tekstiä)",
+      "question_title_en": "The apartment building where you live has many problems. You are tired of the problems and want the housing company to... (Continue the text)",
+      "sub_questions_fi": [
+        "Minkä tyyppinen ongelma talossa on? (Esim. melu, siisteys, valaistus)",
+        "Kuvaile ongelman vaikutusta elämääsi.",
+        "Mitä toimenpiteitä toivot taloyhtiön tekevän?",
+        "Milloin toivot ongelmien ratkeavan?"
+      ],
+      "sub_questions_en": [
+        "What type of problem does the building have? (E.g., noise, cleanliness, lighting)",
+        "Describe the impact of the problem on your life.",
+        "What measures do you want the housing company to take?",
+        "When do you hope the problems will be solved?"
+      ]
+    },
+    {
+      "question_type_fi_en": "Muodollinen kirje (Formal letter)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Sinulla on ongelma naapurisi lemmikin kanssa. Koira haukkuu koko yön.",
+      "question_title_en": "You have a problem with your neighbor's pet. The dog barks all night.",
+      "sub_questions_fi": [
+        "kerro miten haukkuminen häiritsee elämääsi",
+        "kysy naapurilta, miksi koira haukkuu",
+        "ehdota, miten ongelman voi ratkaista",
+        "kerro, mitä teet, jos tilanne ei muutu."
+      ],
+      "sub_questions_en": [
+        "tell how the barking disrupts your life",
+        "ask the neighbor why the dog barks",
+        "suggest how the problem can be solved",
+        "tell what you will do if the situation does not change."
+      ]
+    },
+    {
+      "question_type_fi_en": "Muodollinen kirje (Formal letter)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Haluat kutsua kaikki naapurisi auttamaan sinua leikkikentän siivouksessa. Kirjoita kutsu, jossa on seuraava teksti:",
+      "question_title_en": "You want to invite all your neighbors to help you clean up the playground. Write an invitation with the following text:",
+      "sub_questions_fi": [
+        "missä kunnossa leikkikenttä on nyt ja miksi mielestäsi se pitäisi kunnostaa",
+        "mitä mielestäsi leikkikentälle pitäisi tehdä",
+        "mitä ihmiset voivat tuoda mukanaan leikkikentälle",
+        "milloin aiot järjestää tapahtuman"
+      ],
+      "sub_questions_en": [
+        "what condition the playground is in now and why you think it should be restored",
+        "what you think should be done to the playground",
+        "what people can bring with them to the playground",
+        "when you plan to organize the event"
+      ]
+    },
+    {
+      "question_type_fi_en": "Muodollinen kirje (Formal letter)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Sinulla on terveysongelma, johon tarvitset apua. Pyydät apua terveysblogista. Kirjoita keskustelun aloitus, jossa sinä:",
+      "question_title_en": "You have a health problem that you need help with. You ask for help on a health blog. Write a conversation starter where you:",
+      "sub_questions_fi": [
+        "kerrot millainen terveysongelma sinulla on",
+        "mitä oireita sinulla on",
+        "miten se häiritsee päivittäistä elämääsi",
+        "miksi pyydät apua verkkoalustalta"
+      ],
+      "sub_questions_en": [
+        "tell what kind of health problem you have",
+        "what symptoms you are experiencing",
+        "how it disrupts your daily life",
+        "why you are asking for help from the online platform"
+      ]
+    },
+    {
+      "question_type_fi_en": "Muodollinen kirje (Formal letter)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Mielestäsi sukulaistasi on kohdeltu huonosti sairaalassa. Et ole tyytyväinen hoitoon ja valitat potilasasiamiehelle. Kirjoita heille valitus:",
+      "question_title_en": "You feel your relative has been mistreated at the hospital. You are not satisfied with the treatment and complain to the patient ombudsman. Write a complaint to them:",
+      "sub_questions_fi": [
+        "mikä suhde sinulla on potilaaseen",
+        "milloin ja miksi sukulaisesi oli sairaalassa",
+        "miksi mielestäsi hoito oli huonoa",
+        "mitä haluat asialle tehtävän"
+      ],
+      "sub_questions_en": [
+        "what your relationship is to the patient",
+        "when and why your relative was in the hospital",
+        "why you think the treatment was poor",
+        "what you want to be done about the matter"
+      ]
+    },
+    {
+      "question_type_fi_en": "Muodollinen kirje (Formal letter)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Haluat lähettää kiitoskirjeen omalle tai lapsesi opettajalle. Kirjoita ainakin:",
+      "question_title_en": "You want to send a thank you letter to your own or your child's teacher. Write at least:",
+      "sub_questions_fi": [
+        "mitä hän on opettanut sinulle/lapsellesi",
+        "millainen opettaja hän mielestäsi on",
+        "mitä tulet aina muistamaan",
+        "mitä toivot hänen muistavan"
+      ],
+      "sub_questions_en": [
+        "what he/she has taught you/your child",
+        "what kind of teacher you think he/she is",
+        "what you will always remember",
+        "what you wish he/she would remember"
+      ]
+    },
+    {
+      "question_type_fi_en": "Muodollinen kirje (Formal letter)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Olet ilmoittautunut kurssille (keksimällä itse minkä). Et kuitenkaan pääse läpi ensimmäisellä kerralla. Kirjoita kurssin järjestäjälle ja selitä miksi sinun tulisi saada uusi yritys.",
+      "question_title_en": "You have enrolled in a course (make up which one yourself). However, you cannot pass it the first time. Write to the course organizer and explain why you should be allowed a new attempt.",
+      "sub_questions_fi": [
+        "Mihin kurssiin olet ilmoittautunut ja miksi se on sinulle tärkeä?",
+        "Miksi epäonnistuit ensimmäisellä kerralla? (Esim. sairaus, stressi)",
+        "Mitä olet valmis tekemään/opiskelemaan saadaksesi kurssin suoritettua toisella kerralla?",
+        "Pyydä kohteliaasti uutta mahdollisuutta."
+      ],
+      "sub_questions_en": [
+        "Which course have you enrolled in and why is it important to you?",
+        "Why did you fail the first time? (E.g., illness, stress)",
+        "What are you willing to do/study to complete the course the second time?",
+        "Politely ask for a new opportunity."
+      ]
+    },
+    {
+      "question_type_fi_en": "Muodollinen kirje (Formal letter)",
+      "chapter_name_fi": "Yhteiskunta",
+      "chapter_name_en": "Society",
+      "question_title_fi": "Olet saanut kielteisen päätöksen siitä, ettet saa jatkaa kieliopintojasi. Kirjoita valitus vastuuhenkilölle:",
+      "question_title_en": "You have received a negative decision about not being able to continue your language studies. Write a complaint to the person in charge:",
+      "sub_questions_fi": [
+        "miksi sinun pitäisi saada jatkaa kieliopintojasi",
+        "mitä aiot tehdä, kun kielitaitosi paranee",
+        "miten hylätty päätös vaikuttaa elämääsi"
+      ],
+      "sub_questions_en": [
+        "why you should be allowed to continue your language studies",
+        "what you will do when your language skills improve",
+        "how the rejected decision will affect your life"
+      ]
+    }
+  ],
+  "informal_letter": [
+    {
+      "question_type_fi_en": "Epävirallinen kirje (Informal letter)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Ystävällesi on tapahtunut jotain tärkeää (keksimällä itse mitä). Haluat onnitella häntä. Kirjoita hänelle viesti, jossa on seuraava teksti:",
+      "question_title_en": "Something important has happened to your friend (make up what yourself). You want to congratulate him/her. Write a message to him/her with the following text:",
+      "sub_questions_fi": [
+        "kerro mitä on tapahtunut ja mistä olet kuullut siitä",
+        "onnittele häntä ja kerro mitä mieltä olet tapahtuneesta",
+        "kerro miten haluat juhlia yhdessä hänen kanssaan"
+      ],
+      "sub_questions_en": [
+        "tell what has happened and where you heard about it",
+        "congratulate him or her and tell what you think about what happened",
+        "tell how you want to celebrate together with him/her"
+      ]
+    },
+    {
+      "question_type_fi_en": "Epävirallinen kirje (Informal letter)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Olet saanut suuren kukkalaatikon puolikkaalta tutulta. Kirjoita viesti kukkien lähettäjälle ja kerro ainakin:",
+      "question_title_en": "You have received a large flower delivery from a half-acquaintance. Write a message to the sender of the flowers and tell at least:",
+      "sub_questions_fi": [
+        "miltä kukat näyttävät ja mitä mieltä olet niistä",
+        "miksi luulet hänen lähettäneen kukat",
+        "pyydä häntä kohteliaasti lopettamaan lahjojen lähettämisen sinulle ja selitä miksi et halua niitä"
+      ],
+      "sub_questions_en": [
+        "what the flowers look like and what you think of them",
+        "why you think he/she sent the flowers",
+        "politely ask him/her to stop sending you gifts and explain why you do not want them"
+      ]
+    },
+    {
+      "question_type_fi_en": "Epävirallinen kirje (Informal letter)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Ystäväsi haluaa muuttaa samalle alueelle kuin sinä. Kuvaile ympäristöäsi ystävällesi ja kerro hänelle asuinpaikkasi hyvistä ja huonoista puolista.",
+      "question_title_en": "Your friend wants to move to the same area as you. Describe your surroundings to your friend and tell him or her about the pros and cons of the place where you live.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Epävirallinen kirje (Informal letter)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Kollegasi on jäänyt pitkälle sairauslomalle. Kirjoita hänelle viesti, jossa on seuraava teksti:",
+      "question_title_en": "Your colleague has taken a long sick leave. Write a message to him/her with the following text:",
+      "sub_questions_fi": [
+        "miten ja mistä kuulit sairauspoissaolosta",
+        "kysy mitä kollegallesi on tapahtunut",
+        "kerro miten voit auttaa häntä työssä",
+        "tarjoa muuta apua kollegalle"
+      ],
+      "sub_questions_en": [
+        "how and where you heard about the sick leave",
+        "ask what happened to your colleague",
+        "tell how you can help them at work",
+        "offer other help to the colleague"
+      ]
+    },
+    {
+      "question_type_fi_en": "Epävirallinen kirje (Informal letter)",
+      "chapter_name_fi": "Yhteiskunta",
+      "chapter_name_en": "Society",
+      "question_title_fi": "Ulkomaalainen ystäväsi haluaa muuttaa kotimaahasi. Lähetä hänelle viesti siitä, mitä hänen on tehtävä muuttaakseen. Kerro myös, mitä heidän on tiedettävä nykyisestä maastasi ennen muuttoa.",
+      "question_title_en": "Your foreign friend wants to move to your home country. Send him/her a message about what he/she needs to do to move. Also tell what they need to know about your current country before moving.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    }
+  ],
+  "Situations": [
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Kaukainen ystäväsi/sukulaisesi tulee ensimmäistä kertaa kylään. Kerro naapurillesi, mitä aiot näyttää heille kotikaupungissasi.",
+      "question_title_en": "Your distant friend/relative is visiting for the first time. Tell your neighbor what you are going to show them in your hometown.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Naapurisi kotiin tulee joku käymään, mutta naapuri ei ole kotona. Kerro naapurillesi, miltä vieras näytti.",
+      "question_title_en": "Someone visits your neighbor's home, but the neighbor is not home. Tell your neighbor what the visitor looked like.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Näet kaksi poikaa kadulla, jotka kiusaavat koulukaveria. Mene väliin ja kerro pojille, miksi ei ole sopivaa kiusata muita.",
+      "question_title_en": "You see two boys on the street teasing a schoolmate. Step in and tell the boys why it is not okay to bully others.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Ystäväsi kertoo, että hänen isänsä on kuollut. Ystäväsi on todella surullinen. Mitä sanot?",
+      "question_title_en": "Your friend tells you that their father has died. Your friend is really sad. What do you say?",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Vierailet ystävän luona kylässä. Ystävä tarjoaa sinulle ruokaa tai juomaa, jota et voi syödä/juoda (mieti itse miksi). Kieltäydy kohteliaasti.",
+      "question_title_en": "You are visiting a friend in a village. The friend offers you food or drink that you cannot eat/drink (think for yourself why). Politely refuse.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Tapaat vanhan ystävän kaupungilla, jota et ole nähnyt pitkään aikaan. Mitä sanot hänelle?",
+      "question_title_en": "You meet an old friend in town whom you haven't seen for a long time. What do you say to him/her?",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Kollegasi kutsuu sinut kylään. Et halua mennä. Kieltäydy kohteliaasti ja selitä miksi.",
+      "question_title_en": "Your colleague invites you to visit him/her. You don't want to go. Politely refuse and explain why.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Ihminen ja ympäristö",
+      "chapter_name_en": "Human and Environment",
+      "question_title_fi": "Pieni lapsi itkee yksin kaupan parkkipaikalla. Et näe vanhempia. Mitä sanot hänelle?",
+      "question_title_en": "A small child is crying alone in a shop's parking lot. You do not see the parents. What do you say to him/her?",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Olet ravintolassa ja vieressä olevassa pöydässä on perhe, jonka lapset käyttäytyvät huonosti. Mitä sanot vanhemmille?",
+      "question_title_en": "You are in a restaurant and at the table next to you sits a family with misbehaving children. What do you say to the parents?",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Palvelu ravintolassa on erittäin hidasta. Valita tarjoilijalle.",
+      "question_title_en": "The service in the restaurant is very slow. Complain to the waiter.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Kuumaan autoon on jätetty koira kaupan parkkipaikalla. Kerro koiranomistajalle, mitä mieltä olet.",
+      "question_title_en": "A dog has been left in a hot car in a shop's parking lot. Tell the dog owner what you think.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Kannettavassa tietokoneessasi on jotain vikaa. Takuu on vielä voimassa. Soita kauppaan.",
+      "question_title_en": "There is something wrong with your laptop. The warranty is still valid. Call the store.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Olet nähnyt ilmoituksen käytetystä pesukoneesta. Soita myyjälle ja pyydä lisää tietoa.",
+      "question_title_en": "You have seen an ad for a used washing machine. Call the seller and ask for more information.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Kerro ystävällesi, miten hän pääsee kotiisi bussilla.",
+      "question_title_en": "Tell your friend how he/she can get to your home by bus.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Arki",
+      "chapter_name_en": "Daily Life",
+      "question_title_fi": "Istut bussissa, mutta et tunne reittiä. Kerro kuljettajalle, missä haluat jäädä pois ja pyydä apua.",
+      "question_title_en": "You are on the bus but do not know the route. Tell the driver where you want to get off and ask for help.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Näet jonkun heittävän käytetyn jääkaapin metsään. Mitä sanot?",
+      "question_title_en": "You see someone throwing a used refrigerator in the forest. What do you say?",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Muutat uuteen kotiin. Haluat lahjoittaa osan vanhoista tavaroistasi (keksimällä itse mitä) ystävälle. Mitä sanot?",
+      "question_title_en": "You are moving to a new home. You want to donate some of your old things (make up what yourself) to a friend. What do you say?",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Etsit uutta asuntoa. Välittäjä kysyy sinulta, mikä on sinulle tärkeää asuinympäristössäsi. Mitä sanot?",
+      "question_title_en": "You are looking for a new home. The agent asks you what is important to you in your living environment. What do you say?",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Ulkomailla asuva ystävä kysyy sinulta, miltä luonto näyttää Suomessa. Mitä sanot?",
+      "question_title_en": "A friend living abroad asks you what nature looks like in Finland. What do you say?",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Luonto ja ympäristö",
+      "chapter_name_en": "Nature and Environment",
+      "question_title_fi": "Näet miehen kadulla, joka potkii eläintä (minkä?). Mitä sanot?",
+      "question_title_en": "You see a man on the street kicking an animal (which one?). What do you say?",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Tarvitset jotain apteekista ja pyydät ystävältä apua.",
+      "question_title_en": "You need something from the pharmacy and ask a friend for help.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Olet nähnyt auto-onnettomuuden. Poliisi kysyy sinulta, mitä tapahtui. Vastaa poliisille.",
+      "question_title_en": "You have seen a car accident. The police ask you what happened. Answer the police.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Olet varannut ajan lääkärille, mutta sisäänpääsy kestää kauan. Kysy vastaanottovirkailijalta, miksi se kestää niin kauan.",
+      "question_title_en": "You have booked an appointment with the doctor, but it takes a long time to get in. Ask the receptionist why it is taking so long.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Juopunut kuljettaja ajaa talosi parkkipaikalle. Tunnistat henkilön. Soitat poliisille.",
+      "question_title_en": "A drunken driver drives into the parking lot at your house. You identify the person. You call the police.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Saat tietää, että ystävälläsi on rintasyöpä. Mitä sanot hänelle?",
+      "question_title_en": "You find out that your friend has breast cancer. What do you say to her?",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Pelkäät, että sinulla on muistiongelmia. Unohdat usein asioita. Kysy sairaanhoitajaltasi lisää tietoa.",
+      "question_title_en": "You are afraid that you have memory problems. You often forget things. Ask your nurse for more information.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Olet sopinut tapaamisen ystävän kanssa, mutta olet sairas etkä voi tavata häntä.",
+      "question_title_en": "You have booked a meeting with a friend, but you are sick and cannot meet him or her.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Sinulla on kuumetta ja sinun on haettava lapsesi päiväkodista. Pyydä ystävältä apua.",
+      "question_title_en": "You have a fever and need to pick up your child from kindergarten. Ask a friend for help.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Seisot vaa'alla ja huomaat, että painosi on noussut 10 kg.",
+      "question_title_en": "You stand on the scale and notice that your weight has increased by 10 kg.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Terveys ja hyvinvointi",
+      "chapter_name_en": "Health and Wellbeing",
+      "question_title_fi": "Menet kuntosalille ja haluat ruokavalion (pyydä kuntosalin henkilökunnalta lisätietoja).",
+      "question_title_en": "You go to the gym and want a diet (ask the gym staff for more information).",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Olet saanut uuden työpaikan. Uusi pomosi soittaa sinulle, ja sinulla on hänelle kysymyksiä. (Keksi itse kysymykset.)",
+      "question_title_en": "You have a new job. Your new boss calls you, and you have some questions you want to ask him/her. (Make up the questions yourself.)",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Palkassasi on virheitä (keksimällä itse mitä). Soitat palkanlaskijalle.",
+      "question_title_en": "There are errors in your salary (make up what yourself). You call the payroll administrator.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Kollegasi on täyttämässä 50 vuotta. Haluat järjestää ohjelmaa. Ehdota kollegallesi, miten voitte juhlia.",
+      "question_title_en": "Your colleague is about to turn 50. You want to organize a program. Suggest to your colleague how you can celebrate.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Olet saanut uuden työpaikan ja sinun on irtisanouduttava. Kerro tilanteesta pomollesi.",
+      "question_title_en": "You have a new job and have to resign. Tell your boss about the situation.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Tiedät todella hyvän työntekijän projektiisi. Suosittele häntä pomollesi.",
+      "question_title_en": "You know a really good co-worker for your project. Recommend him/her to your boss.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Sinun on varattava kokoushuone. Kerro, milloin tarvitset sitä ja kuinka suuren kokoushuoneen tarvitset.",
+      "question_title_en": "You need to book a meeting room. Tell when you need it and how large a meeting room you need.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Kollegasi ei ole tehnyt sovittua (keksimällä itse mitä). Olet vihainen hänelle. Selitä, mitä mieltä olet siitä, että hän ei tehnyt sovittua.",
+      "question_title_en": "Your colleague has not done what was agreed (make up what yourself). You are angry at him/her. Explain what you think about the fact that he/she did not do what was agreed.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Mielestäsi sinulla on liian vähän lomaa. Pyydä pomolta lisää lomaa.",
+      "question_title_en": "You think you have too little vacation. Ask your boss for more vacation.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Pomosi ilmoittaa, että organisaatiossa tapahtuu suuri muutos ja 20 % henkilöstöstä irtisanotaan. Kerro kollegallesi, mitä mieltä olet.",
+      "question_title_en": "Your boss announces that there will be a major change in the organization and that 20% of the staff will be laid off. Tell your colleague what you think.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Mielestäsi palkkasi on liian alhainen. Selitä pomollesi, miksi tarvitset palkankorotuksen.",
+      "question_title_en": "You think your salary is too low. Explain to your boss why you need a raise.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Työ ja koulutus",
+      "chapter_name_en": "Work and Education",
+      "question_title_fi": "Haluat osallistua koulutukseen (keksimällä itse minkä). Kerro pomollesi, miten koulutus hyödyttää sinua.",
+      "question_title_en": "You want to attend a training (make up which one yourself). Tell your boss how the training will benefit you.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Näet pienen koululaisen kahvilassa. Koululainen katsoo tabletilla ohjelmaa, joka ei sovi lapsille. Kerro hänelle, miksi ohjelma on huono ja miksi hän ei saisi katsoa sitä.",
+      "question_title_en": "You see a small school child in the cafeteria. The school child is watching a program on a tablet that is not suitable for children. Tell him/her why the program is bad and why he/she should not watch it.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Olet ostanut tuotteen urheilukaupasta (keksimällä itse minkä). Tuotteessa on jotain vikaa. Palauta tuote kauppaan ja selitä, miksi haluat palauttaa sen.",
+      "question_title_en": "You have bought a product in a sports store (make up which one yourself). There is something wrong with the product. Return the product to the store and explain why you want to return it.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Vapaa-aika ja harrastukset",
+      "chapter_name_en": "Leisure Time and Hobbies",
+      "question_title_fi": "Kävelet kaupungilla, kun toimittaja kysyy sinulta, mitä mieltä olet kotikaupungistasi. Mitä sanot hänelle?",
+      "question_title_en": "You are walking in the city when a journalist asks you what you think about your hometown. What do you say to him/her?",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Yhteiskunta",
+      "chapter_name_en": "Society",
+      "question_title_fi": "Presidentin kanslia soittaa sinulle ja kutsuu sinut itsenäisyyspäivän juhliin 6. joulukuuta, koska olet ollut erittäin ahkera suomen opiskelija. Opettajasi on suositellut sinua. Mitä sanot?",
+      "question_title_en": "The President's office calls you and invites you to the Independence Day celebration on December 6 because you have been a very diligent student of Finnish. Your teacher has recommended you. What do you say?",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Yhteiskunta",
+      "chapter_name_en": "Society",
+      "question_title_fi": "Matkapuhelimesi on mennyt rikki (keksimällä itse miten). Kysyt, kattaako kotivakuutuksesi sen.",
+      "question_title_en": "Your mobile phone has broken (make up how yourself). You ask if your home insurance covers it.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Yhteiskunta",
+      "chapter_name_en": "Society",
+      "question_title_fi": "Työtilanteesi on muuttunut (keksimällä itse miten) ja sinun on muutettava veroprosenttiasi. Soita verotoimistoon.",
+      "question_title_en": "Your work situation has changed (make up how yourself) and you need to change your tax rate. Call the tax office.",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    },
+    {
+      "question_type_fi_en": "Reagoi: Valmistautumisaika 10 sek, Puheaika max. 25 sek. (React: Prep 10 sec, Speak max 25 sec.)",
+      "chapter_name_fi": "Yhteiskunta",
+      "chapter_name_en": "Society",
+      "question_title_fi": "Sinulla on ongelma sosiaaliturvan kanssa... (Jatka tekstiä ja kysy apua)",
+      "question_title_en": "You have a problem with social security... (Continue the text and ask for help)",
+      "sub_questions_fi": [],
+      "sub_questions_en": []
+    }
+  ]
+}

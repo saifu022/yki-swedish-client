@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router";
 //import questionsData from "../../../assets/questions.json";
-import questionsData from "../../../assets/questions_sw_eng.json";
+import questionsData from "../../../assets/questions_fin_eng.json";
 
-const AllQuestions = () => {
+const AllFinQuestions = () => {
     const location = useLocation();
     const navigate = useNavigate();
     const [questions, setQuestions] = useState([]);
@@ -21,13 +21,13 @@ const AllQuestions = () => {
             list = [
                 ...questionsData["informal_letter"],
                 ...questionsData["formal_letter"],
-                ...questionsData["Din åsikt_writting"],
+                ...questionsData["mielipide_writing"],
             ];
         } else if (moduleType === "Speaking") {
             list = [
-                ...questionsData["Berätta"],
-                ...questionsData["reagera"],
-                ...questionsData["Din åsikt_speaking"],
+                ...questionsData["Kertaus"],
+                ...questionsData["Situations"],
+                ...questionsData["mielipide_speaking"],
             ];
         }
 
@@ -57,8 +57,8 @@ const AllQuestions = () => {
                             {/* Copy Button */}
                             <button
                                 onClick={() => {
-                                    const fullText = `${q.question_title}${q.sub_questions?.length
-                                        ? "\n• " + q.sub_questions.join("\n• ")
+                                    const fullText = `${q.question_title_fi}${q.sub_questions_fi?.length
+                                        ? "\n• " + q.sub_questions_fi.join("\n• ")
                                         : ""
                                         }`;
 
@@ -92,15 +92,15 @@ const AllQuestions = () => {
 
                             {/* Question Data */}
                             <p className="text-xs text-gray-500 mb-1">
-                                <strong>{q.question_type}</strong>
+                                <strong>{q.question_type_fi_en}</strong>
                             </p>
                             <h3 className="text-lg font-semibold mb-2">
-                                {idx + 1}. {q.question_title}
+                                {idx + 1}. {q.question_title_fi}
                             </h3>
 
-                            {q.sub_questions?.length > 0 && (
+                            {q.sub_questions_fi?.length > 0 && (
                                 <ul className="list-disc pl-6 space-y-1 text-sm">
-                                    {q.sub_questions.map((sub, i) => (
+                                    {q.sub_questions_fi.map((sub, i) => (
                                         <li key={i}>{sub}</li>
                                     ))}
                                 </ul>
@@ -146,4 +146,4 @@ const AllQuestions = () => {
     );
 };
 
-export default AllQuestions;
+export default AllFinQuestions;
